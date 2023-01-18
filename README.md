@@ -5,7 +5,7 @@
 ## 👨‍💻 Run my business card
 
 ```bash
-
+npx juliebidard
 ```
 
 <h3>Things I code with :</h3>
